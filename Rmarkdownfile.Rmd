@@ -1,6 +1,6 @@
 ---
 title: "A Sample R Markdown Template"
-author: "Vivek Patil"
+author: "Brett Alling"
 date: "9/15/2015"
 output:
   html_document:
